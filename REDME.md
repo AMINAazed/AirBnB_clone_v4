@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Amina Zahir - [Github](https://github.com/AMINAazed)
+Freshia Njoki - [Github](https://github.com/Freshia-Njoki)
 
 
 ## License
